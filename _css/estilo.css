@@ -50,8 +50,7 @@ header#cabecalho img#icone {
 header#cabecalho {
 	border-bottom: 1px #606060 solid;
 	height: 150px;
-	background : url('C:/Users/Berg/Documents/Heitor Berg/curso-html5-pacote01 (1)/projeto-glass-html5/_media/_imagens/glass-logo.jpg')no-repeat 80px 100px;
-}
+	background: url('../_media/_imagens/glass-logo.jpg') no-repeat 80px 100px;
 
 header#cabecalho h2 {
     font-family: Arial, sans-serif;
